@@ -29,11 +29,6 @@ namespace DataAccess.Concrete.EntityFramework
             throw new NotImplementedException();
         }
 
-        public List<Brand> GetById(int Id)
-        {
-            throw new NotImplementedException();
-        }
-
         public void Update(Brand entity)
         {
             throw new NotImplementedException();

@@ -28,12 +28,6 @@ namespace DataAccess.Concrete.EntityFramework
         {
             throw new NotImplementedException();
         }
-
-        public List<Color> GetById(int Id)
-        {
-            throw new NotImplementedException();
-        }
-
         public void Update(Color entity)
         {
             throw new NotImplementedException();
